@@ -1478,5 +1478,133 @@
   "lopopolo/harness-engineering": {
     "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
     "fetchedAt": "2026-09-06T16:51:09.343Z"
+  },
+  "pingdotgg/t3code": {
+    "description": "T3 Code is Theo Browne (t3.gg) open-source agent harness control surface: one desktop app plus an iOS app to run and steer the coding agents already installed on your machine (Claude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity) using your own subscriptions.",
+    "fetchedAt": "2026-09-06T18:06:07.310Z"
+  },
+  "CodebuffAI/freebuff": {
+    "description": "The free coding agent",
+    "fetchedAt": "2026-09-06T18:06:07.812Z"
+  },
+  "tt-a1i/archify": {
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "fetchedAt": "2026-09-06T18:06:08.300Z"
+  },
+  "blader/humanizer": {
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "fetchedAt": "2026-09-06T18:06:09.985Z"
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "fetchedAt": "2026-09-06T18:06:11.140Z"
+  },
+  "titanwings/distilly": {
+    "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+    "fetchedAt": "2026-09-06T18:06:12.192Z"
+  },
+  "anthropics/claude-plugins-community": {
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "fetchedAt": "2026-09-06T18:06:12.914Z"
+  },
+  "cathrynlavery/diagram-design": {
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "fetchedAt": "2026-09-06T18:06:13.984Z"
+  },
+  "citrolabs/ego-lite": {
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "fetchedAt": "2026-09-06T18:06:14.487Z"
+  },
+  "elizaOS/eliza": {
+    "description": "Open source agentic operating system",
+    "fetchedAt": "2026-09-06T18:06:15.194Z"
+  },
+  "BoundaryML/baml": {
+    "description": "The programming language for agents",
+    "fetchedAt": "2026-09-06T18:06:15.602Z"
+  },
+  "ToolJet/ToolJet": {
+    "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+    "fetchedAt": "2026-09-06T18:06:15.990Z"
+  },
+  "conductor-oss/conductor": {
+    "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+    "fetchedAt": "2026-09-06T18:06:16.402Z"
+  },
+  "THU-MAIC/OpenMAIC": {
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "fetchedAt": "2026-09-06T18:06:17.174Z"
+  },
+  "AI4Finance-Foundation/FinRL": {
+    "description": "FinRL®:  Financial Reinforcement Learning. 🔥",
+    "fetchedAt": "2026-09-06T18:06:17.700Z"
+  },
+  "volcengine/OpenViking": {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "fetchedAt": "2026-09-06T18:06:18.227Z"
+  },
+  "semantica-agi/semantica": {
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "fetchedAt": "2026-09-06T18:06:18.776Z"
+  },
+  "vitali87/code-graph-rag": {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "fetchedAt": "2026-09-06T18:06:19.275Z"
+  },
+  "AlexsJones/llmfit": {
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "fetchedAt": "2026-09-06T18:06:19.823Z"
+  },
+  "modular/modular": {
+    "description": "The Modular Platform (includes MAX & Mojo)",
+    "fetchedAt": "2026-09-06T18:06:20.320Z"
+  },
+  "jundot/omlx": {
+    "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "fetchedAt": "2026-09-06T18:06:20.826Z"
+  },
+  "cactus-compute/needle": {
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "fetchedAt": "2026-09-06T18:06:21.920Z"
+  },
+  "ai-dynamo/dynamo": {
+    "description": "A Datacenter Scale Distributed Inference Serving Framework",
+    "fetchedAt": "2026-09-06T18:06:22.414Z"
+  },
+  "debpalash/VoiceStudio": {
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "fetchedAt": "2026-09-06T18:06:23.148Z"
+  },
+  "duixcom/Duix-Avatar": {
+    "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+    "fetchedAt": "2026-09-06T18:06:23.748Z"
+  },
+  "f/prompts.chat": {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "fetchedAt": "2026-09-06T18:06:24.428Z"
+  },
+  "microsoft/generative-ai-for-beginners": {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "fetchedAt": "2026-09-06T18:06:25.503Z"
+  },
+  "microsoft/ML-For-Beginners": {
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "fetchedAt": "2026-09-06T18:06:26.010Z"
+  },
+  "openai/openai-cookbook": {
+    "description": "Examples and guides for using the OpenAI API",
+    "fetchedAt": "2026-09-06T18:06:26.563Z"
+  },
+  "microsoft/ai-agents-for-beginners": {
+    "description": "18 Lessons to Get Started Building AI Agents",
+    "fetchedAt": "2026-09-06T18:06:27.501Z"
+  },
+  "HandsOnLLM/Hands-On-Large-Language-Models": {
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "fetchedAt": "2026-09-06T18:06:27.979Z"
+  },
+  "google-gemini/cookbook": {
+    "description": "Examples and guides for using the Gemini API",
+    "fetchedAt": "2026-09-06T18:06:28.567Z"
   }
 }
