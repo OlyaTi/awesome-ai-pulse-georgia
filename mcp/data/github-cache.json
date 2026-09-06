@@ -1294,5 +1294,189 @@
   "ATH-MaaS/Pixelle-Video": {
     "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
     "fetchedAt": "2026-07-17T23:01:28.603Z"
+  },
+  "deepseek-ai/deepseek-harness": {
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "fetchedAt": "2026-09-06T16:50:49.571Z"
+  },
+  "xai-org/grok-build": {
+    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "fetchedAt": "2026-09-06T16:50:49.993Z"
+  },
+  "PrimeIntellect-ai/prime-agent": {
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "fetchedAt": "2026-09-06T16:50:50.395Z"
+  },
+  "lidge-jun/opencodex": {
+    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+    "fetchedAt": "2026-09-06T16:50:50.774Z"
+  },
+  "XiaomiMiMo/MiMo-Code": {
+    "description": "MiMo Code: Where Models and Agents Co-Evolve",
+    "fetchedAt": "2026-09-06T16:50:51.173Z"
+  },
+  "openai/codex-security": {
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "fetchedAt": "2026-09-06T16:50:51.564Z"
+  },
+  "kirodotdev/KiroCrew": {
+    "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+    "fetchedAt": "2026-09-06T16:50:51.960Z"
+  },
+  "vercel-labs/fx": {
+    "description": "Unix like coding agent",
+    "fetchedAt": "2026-09-06T16:50:52.388Z"
+  },
+  "DietrichGebert/ponytail": {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "fetchedAt": "2026-09-06T16:50:52.762Z"
+  },
+  "virgiliojr94/book-to-skill": {
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "fetchedAt": "2026-09-06T16:50:53.128Z"
+  },
+  "ayghri/i-have-adhd": {
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "fetchedAt": "2026-09-06T16:50:53.523Z"
+  },
+  "anthropics/defending-code-reference-harness": {
+    "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
+    "fetchedAt": "2026-09-06T16:50:53.916Z"
+  },
+  "petergyang/no-ai-slop": {
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "fetchedAt": "2026-09-06T16:50:54.288Z"
+  },
+  "microsoft/skill-recorder": {
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "fetchedAt": "2026-09-06T16:50:54.665Z"
+  },
+  "QwenLM/Qwen-MM-Plugins": {
+    "description": "Make any agent harness multimodal-native.",
+    "fetchedAt": "2026-09-06T16:50:55.072Z"
+  },
+  "gvzdv/claudish-to-english": {
+    "description": "Claude Code plugin that shows a plain-English rewrite of each assistant message, produced by a local LLM via ollama (default), the codex CLI, the Anthropic API or any OpenAI-compatible API. Display-only: the saved transcript keeps the original text.",
+    "fetchedAt": "2026-09-06T16:50:55.443Z"
+  },
+  "img2threejs/img2threejs": {
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "fetchedAt": "2026-09-06T16:50:55.873Z"
+  },
+  "jakubkrehel/skills": {
+    "description": "A collection of agent skills that help you build a great interface.",
+    "fetchedAt": "2026-09-06T16:50:56.275Z"
+  },
+  "MengTo/threeui": {
+    "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+    "fetchedAt": "2026-09-06T16:50:56.676Z"
+  },
+  "DavidHDev/canvas-ui": {
+    "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+    "fetchedAt": "2026-09-06T16:50:57.064Z"
+  },
+  "microsoft/SkillOpt": {
+    "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+    "fetchedAt": "2026-09-06T16:50:57.538Z"
+  },
+  "omnigent-ai/omnigent": {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+    "fetchedAt": "2026-09-06T16:50:57.950Z"
+  },
+  "cloudflare/computer": {
+    "description": "Give your agent a computer 👾",
+    "fetchedAt": "2026-09-06T16:50:58.378Z"
+  },
+  "truefoundry/trueforge": {
+    "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
+    "fetchedAt": "2026-09-06T16:50:58.894Z"
+  },
+  "vercel/eve": {
+    "description": "The Open Framework for Building Agents",
+    "fetchedAt": "2026-09-06T16:50:59.297Z"
+  },
+  "kvcache-ai/AgentENV": {
+    "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+    "fetchedAt": "2026-09-06T16:50:59.701Z"
+  },
+  "odysseus-dev/odysseus": {
+    "description": "Self-hosted AI workspace. ",
+    "fetchedAt": "2026-09-06T16:51:00.100Z"
+  },
+  "andrewyng/openworker": {
+    "description": "Open-source AI coworker from Andrew Ng that lives on your desktop and delivers finished work (security reviews with validated fixes, cloud posture audits) instead of chat. Bring your own key for OpenAI, Anthropic, Google or open-weight providers, or run fully local with Ollama. Open beta for macOS and Windows.",
+    "fetchedAt": "2026-09-06T16:51:00.513Z"
+  },
+  "yc-software/qm": {
+    "description": "Multiplayer agent harness for work.",
+    "fetchedAt": "2026-09-06T16:51:00.932Z"
+  },
+  "trycompai/crm": {
+    "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+    "fetchedAt": "2026-09-06T16:51:01.325Z"
+  },
+  "genspark-ai/genoffice": {
+    "description": "Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.",
+    "fetchedAt": "2026-09-06T16:51:01.842Z"
+  },
+  "CopilotKit/OpenBot": {
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "fetchedAt": "2026-09-06T16:51:02.246Z"
+  },
+  "anthropics/commerce-agents": {
+    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "fetchedAt": "2026-09-06T16:51:02.629Z"
+  },
+  "langchain-ai/openwiki": {
+    "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+    "fetchedAt": "2026-09-06T16:51:03.023Z"
+  },
+  "trailhq/Graft": {
+    "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+    "fetchedAt": "2026-09-06T16:51:03.528Z"
+  },
+  "teamchong/pxpipe": {
+    "description": "cut Claude Code token usage by rendering text context as images",
+    "fetchedAt": "2026-09-06T16:51:03.989Z"
+  },
+  "JustVugg/colibri": {
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "fetchedAt": "2026-09-06T16:51:04.362Z"
+  },
+  "antirez/ds4": {
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "fetchedAt": "2026-09-06T16:51:04.859Z"
+  },
+  "firecrawl/anydoc": {
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "fetchedAt": "2026-09-06T16:51:05.410Z"
+  },
+  "FlashML-org/FreeToken": {
+    "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+    "fetchedAt": "2026-09-06T16:51:05.841Z"
+  },
+  "MoonshotAI/Kimi-K3": {
+    "description": "Open Frontier Intelligence",
+    "fetchedAt": "2026-09-06T16:51:06.413Z"
+  },
+  "antirez/h3.c": {
+    "description": "MiniMax H3 inference engine for Mac computers",
+    "fetchedAt": "2026-09-06T16:51:07.247Z"
+  },
+  "MiniMax-AI/MiniMax-H3": {
+    "description": "MiniMax-H3 video-and-audio generation model. The repo bundles nine agent skills, including a portable h3-prompt-writing skill (plain Markdown, no API calls) that works in Claude Code, Codex, Cursor and LangChain, plus API docs for platform.minimax.io.",
+    "fetchedAt": "2026-09-06T16:51:07.745Z"
+  },
+  "diffusionstudio/editor": {
+    "description": "An open-source video editor built for agents. Edits become code, code becomes video.",
+    "fetchedAt": "2026-09-06T16:51:08.125Z"
+  },
+  "cobusgreyling/loop-engineering": {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "fetchedAt": "2026-09-06T16:51:08.905Z"
+  },
+  "lopopolo/harness-engineering": {
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "fetchedAt": "2026-09-06T16:51:09.343Z"
   }
 }
